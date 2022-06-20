@@ -1,6 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablo-Conte&show_icons=true&theme=radical)
-
-Hi there 👋
+Hello there! 👋
 I'm Pablo Conte Correa and:
 
 - 🔭 I’m currently working on Tec System
@@ -10,9 +8,11 @@ I'm Pablo Conte Correa and:
 - 💬 Ask me about HTML, CSS, JS, React, Java, PHP, Python, C++ and MySQL.
 - 📫 E-mail: pablo.correa.nr@gmail.com
 - 🤗 I'm 19 years old
-<!--
-**Pablo-Conte/Pablo-Conte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablo-Conte&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Conte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
