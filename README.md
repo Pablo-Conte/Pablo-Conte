@@ -9,6 +9,3 @@ I'm Pablo Conte Correa and:
 - 💬 Ask me about HTML, CSS, JS, React, Java, PHP, Python, C++ and MySQL.
 - 📫 E-mail: pablo.correa.nr@gmail.com
 - 🤗 I'm 19 years old
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Conte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
