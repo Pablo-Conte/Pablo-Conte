@@ -10,4 +10,4 @@
 <p>- 💬 Ask me about HTML, CSS, JavaScript, React, Java, PHP, Python, C++, nodeJS and MySQL.</p>
 <p>- 📫 E-mail: pablo.correa.nr@gmail.com</p>
 <p>- 🤗 I'm 19 years old</p>
-<p>- 🫂 www.linkedin.com/in/pablo-conte-correa-2b97a7201/</p>
+<p>- 🧐 <a href="www.linkedin.com/in/pablo-conte-correa-2b97a7201/">Linkedin</a>
