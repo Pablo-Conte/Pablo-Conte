@@ -1,7 +1,7 @@
 <h1>>Hello there! 👋</h1>
 
 <div style: "display: inline_block">
-  <a href="https://github.com/Pablo-Conte"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Pablo-Conte&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Pablo' githubs stats" /></a>
+  <a href="https://github.com/Pablo-Conte"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Pablo-Conte&show_icons=true&theme=github_dark&hide_border=true" alt="Pablo' githubs stats" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Conte&layout=compact&theme=github_dark&hide_border=true" /></a> 
 </div>
 <hr>
