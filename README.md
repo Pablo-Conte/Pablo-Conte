@@ -24,8 +24,8 @@
 
 <p>- 🔭 I’m currently working on Tec System</p>
 <p>- 🌱 I’m currently learning how to make an rest API with typescript</p>
-<p>- 👯 I’m looking to collaborate on small projects (like: WebSite or Java Applications)</p>
-<p>- 🤔 I’m looking for help with NodeJS</p>
+<p>- 👯 I’m looking to collaborate on small projects (WebSites back-end)</p>
+<p>- 🤔 I’m looking for help with DayJs</p>
 <p>- 📫 E-mail: pablo.correa.nr@gmail.com</p>
 <p>- 🤗 I'm 19 years old</p>
 <a href="mailto:pablo.correa.nr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
