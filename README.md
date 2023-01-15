@@ -1,4 +1,5 @@
-<h1>>Hello there! 👋</h1>![visitors](https://visitor-badge.glitch.me/badge?page_id=pablo-conte.visitor-badge&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pablo-conte.visitor-badge&left_color=gray&right_color=black)
+<h1>>Hello there! 👋</h1>
 
 <div style: "display: inline_block">
   <a href="https://github.com/Pablo-Conte"><img height="180em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pablo-Conte&show_icons=true&theme=city_lights&hide_border=true" alt="Pablo' githubs stats" /></a>
