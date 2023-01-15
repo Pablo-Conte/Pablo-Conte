@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pablo-conte.visitor-badge&left_color=gray&right_color=black)
+
 <h1>>Hello there! 👋</h1>
 
 <div style: "display: inline_block">
@@ -32,4 +32,6 @@
 <p>- 🤗 I'm 19 years old</p>
 <a href="mailto:pablo.correa.nr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pablo-conte-correa-2b97a7201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pablo-conte.visitor-badge&left_color=gray&right_color=black)
 
