@@ -2,8 +2,8 @@
 <h1>>Hello there! 👋</h1>
 
 <div style: "display: inline_block">
-  <a href="https://github.com/Pablo-Conte"><img height="180em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pablo-Conte&show_icons=true&theme=city_lights&hide_border=true" alt="Pablo' githubs stats" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pablo-Conte&layout=compact&theme=city_lights&hide_border=true" /></a> 
+  <a href="https://github.com/Pablo-Conte"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Pablo-Conte&show_icons=true&theme=city_lights&hide_border=true" alt="Pablo' githubs stats" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Conte&layout=compact&theme=city_lights&hide_border=true" /></a> 
 </div>
 <hr>
 <a href="https://github.com/pablo-conte">
