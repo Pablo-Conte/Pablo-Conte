@@ -24,11 +24,10 @@
 
 <h2>I'm Pablo Conte and:</h2>
 
-<p>- 🔭 I’m currently working on Tec System</p>
+<p>- 🔭 I’m currently working on Paipe</p>
 <p>- 👯 I’m looking to collaborate on small projects (WebSites back-end)</p>
 <p>- 📫 E-mail: pablo.correa.nr@gmail.com</p>
 <p>- 🤗 I'm 19 years old</p>
-<p>- ✅ Open to Work</p>
 <a href="mailto:pablo.correa.nr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pablo-conte-correa-2b97a7201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
